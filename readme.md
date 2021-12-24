@@ -12,13 +12,13 @@
   <li>I am currently learning <a href="https://reactjs.org">React</a></li>
  </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshakmaurya&langs_count=5&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshakmaurya&langs_count=5&theme=dark&layout=compact)
 
 ![Shirshak's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirshakmaurya&hide=stars&show_icons=true&theme=dracula)
 
 
 
-<h2><p >For enquiries, reach out on <a href="https://in.linkedin.com/in/shirshakmaurya">LinkedIn</a>.</p>
+<h2><p >For enquiries 💬, reach out on  <a href="https://in.linkedin.com/in/shirshakmaurya">LinkedIn</a>.</p>
 </h2>
 <h1 ><i>Stay awesome!</i></h1>
 
